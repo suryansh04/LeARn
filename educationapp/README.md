@@ -1,6 +1,8 @@
-# educationapp
+# LeARn
 
-A new Flutter project.
+Have Fun While Learning With leARn.
+
+Made by - Suryansh And Kartik For Hackathon.
 
 ## Getting Started
 
